@@ -1,1 +1,1 @@
-Implementacion de un perceptrón multicapa usando 2 capas ocultas y regularización L2 para evitar sobreajuste. Pruebas en el conjunto MNIST y Fashion MNIST
+Implementacion de un perceptrón multicapa usando 2 capas ocultas y regularización L2 para evitar sobreajuste. Pruebas en el conjunto MNIST y Fashion MNIST. Luego le hice una modificación para que también pudiera hacer regresión. Para la regresión lo probé con un conjunto de casas. 
